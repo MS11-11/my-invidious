@@ -1,5 +1,5 @@
 db:
-  url:postgresql://postgres:youpipe-open-sal-go@db.kpufsdcqpwnlratyaysl.supabase.co:5432/postgres
+  url:postgresql://postgres:MadoSecurePass1111@db.tjnfnhqerkipjawntdbn.supabase.co:5432/postgres
 
 check_version: false
 api_page: true
