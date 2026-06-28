@@ -1,7 +1,7 @@
 db:
-  url: %INVIDIOUS_DATABASE_URL
+  url: "%INVIDIOUS_DATABASE_URL"
 
 check_version: false
 api_page: true
 transparent_privacy_report: false
-hmac_key: %INVIDIOUS_HMAC_KEY
+hmac_key: "%INVIDIOUS_HMAC_KEY"
