@@ -4,3 +4,4 @@ external_db: "postgresql://postgres:كلمة_سر_قاعدة_بياناتك@your
 check_version: false
 api_page: true
 transparent_privacy_report: false
+hmac_key: "MadoScientisto1111SecretKeyChangeMe"
