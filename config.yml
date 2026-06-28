@@ -1,5 +1,5 @@
-# ضع رابط الـ URI اللي أخذته من Supabase هنا مكان الرابط التجريبي
-external_db: "postgresql://postgres:كلمة_سر_قاعدة_بياناتك@your-db-host.supabase.co:5432/postgres"
+db:
+  url:postgresql://postgres:youpipe-open-sal-go@db.kpufsdcqpwnlratyaysl.supabase.co:5432/postgres
 
 check_version: false
 api_page: true
