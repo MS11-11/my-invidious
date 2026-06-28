@@ -1,5 +1,5 @@
 db:
-  url:""%INVIDIOUS_DATABASE_URL
+  "url:"%INVIDIOUS_DATABASE_URL""
 
 check_version: false
 api_page: true
