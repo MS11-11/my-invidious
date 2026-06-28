@@ -1,7 +1,0 @@
-db:
-  url: "postgresql://postgres:MadoSecurePass1111@db.tjnfnhqerkipjawntdbn.supabase.co:5432/postgres"
-
-check_version: false
-api_page: true
-transparent_privacy_report: false
-hmac_key: "MadoScientisto1111SecretKeyChangeMe"
