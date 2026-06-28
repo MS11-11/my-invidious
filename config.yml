@@ -1,0 +1,10 @@
+db:
+  user: postgres
+  password: postgres_password
+  host: localhost
+  port: 5432
+  dbname: invidious
+
+check_version: false
+api_page: true
+transparent_privacy_report: false
