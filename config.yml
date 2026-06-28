@@ -1,9 +1,5 @@
-db:
-  user: postgres
-  password: postgres_password
-  host: localhost
-  port: 5432
-  dbname: invidious
+# ضع رابط الـ URI اللي أخذته من Supabase هنا مكان الرابط التجريبي
+external_db: "postgresql://postgres:كلمة_سر_قاعدة_بياناتك@your-db-host.supabase.co:5432/postgres"
 
 check_version: false
 api_page: true
